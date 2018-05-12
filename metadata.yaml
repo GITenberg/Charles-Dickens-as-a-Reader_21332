@@ -1,0 +1,32 @@
+_repo: Charles-Dickens-as-a-Reader_21332
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kent, Charles
+    aliases:
+    - Kent, W. Charles (William Charles)
+    - Kent, William Charles Mark
+    - Rochester, Mark
+    birthdate: 1823
+    deathdate: 1902
+    gutenberg_agent_id: '36854'
+    url: http://www.gutenberg.org/2009/agents/36854
+description: ''
+gutenberg_issued: '2007-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books and reading -- England -- History -- 19th century'
+- !lcsh 'Novelists, English -- 19th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Dickens, Charles, 1812-1870 -- Readings'
+title: Charles Dickens as a Reader
+url: http://www.gutenberg.org/ebooks/21332
